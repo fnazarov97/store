@@ -1,4 +1,4 @@
--- task5
+
 CREATE OR REPLACE FUNCTION get_product_from_store() RETURNS TRIGGER LANGUAGE PLPGSQL
     AS
 $$
