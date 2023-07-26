@@ -28,7 +28,6 @@ func (r *ProductRepo) Create(req *models.GetListProductResponse) error {
 	if err != nil {
 		return err
 	}
-
 	return nil
 }
 
