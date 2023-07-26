@@ -7,4 +7,5 @@ PostgreSQL
 Redis
 Unit && integration test
 Swagger
-![Alt text](img_model/image.png)
+model:
+https://github.com/fnazarov97/store/blob/main/store.jpg
