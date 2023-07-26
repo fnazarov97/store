@@ -4,6 +4,7 @@
 - Go Programming Language
 - Gin Web Framework
 - PostgreSQL
+- Function and Tregger
 - Redis
 - unit and integration tests
 - Swagger
