@@ -82,6 +82,5 @@ func deleteBrand(t *testing.T, id int) int {
 	if resp != nil {
 		assert.Equal(t, resp.StatusCode, 202)
 	}
-
 	return 0
 }
